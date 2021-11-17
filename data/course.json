@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Nanotechnology"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e99ce068-4e56-275c-a4a1-4a3e69a4bfd8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mathematical Methods in Nanophotonics",
+  "course_description": "Find out what solid-state physics has brought to Electromagnetism in the last 20 years. This course surveys the physics and mathematics of nanophotonics\u2014electromagnetic waves in media structured on the scale of the wavelength.\n\nTopics include computational methods combined with high-level algebraic techniques borrowed from solid-state quantum mechanics: linear algebra and eigensystems, group theory, Bloch's theorem and conservation laws, perturbation methods, and coupled-mode theories, to understand surprising optical phenomena from band gaps to slow light to nonlinear filters.\n\nNote: An earlier version of this course was published on OCW as 18.325 Topics in Applied Mathematics: Mathematical Methods in Nanophotonics, Fall 2005.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.369",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
